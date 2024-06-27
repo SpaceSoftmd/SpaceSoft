@@ -1,0 +1,20 @@
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\StudentsForm\StudentsForm\bin\Debug\StudentsForm.exe.config
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\StudentsForm\StudentsForm\bin\Debug\StudentsForm.exe
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\StudentsForm\StudentsForm\bin\Debug\StudentsForm.pdb
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\StudentsForm\StudentsForm\obj\Debug\StudentsForm.csproj.AssemblyReference.cache
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\StudentsForm\StudentsForm\obj\Debug\StudentsForm.Properties.Resources.resources
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\StudentsForm\StudentsForm\obj\Debug\StudentsForm.csproj.GenerateResource.cache
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\StudentsForm\StudentsForm\obj\Debug\StudentsForm.csproj.CoreCompileInputs.cache
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\StudentsForm\StudentsForm\obj\Debug\StudentsForm.exe
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\StudentsForm\StudentsForm\obj\Debug\StudentsForm.pdb
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\StudentsForm\StudentsForm\obj\Debug\StudentsForm.Form1.resources
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\Laborator 5\StudentsForm\StudentsForm\bin\Debug\StudentsForm.exe.config
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\Laborator 5\StudentsForm\StudentsForm\bin\Debug\StudentsForm.exe
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\Laborator 5\StudentsForm\StudentsForm\bin\Debug\StudentsForm.pdb
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\Laborator 5\StudentsForm\StudentsForm\obj\Debug\StudentsForm.csproj.AssemblyReference.cache
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\Laborator 5\StudentsForm\StudentsForm\obj\Debug\StudentsForm.Form1.resources
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\Laborator 5\StudentsForm\StudentsForm\obj\Debug\StudentsForm.Properties.Resources.resources
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\Laborator 5\StudentsForm\StudentsForm\obj\Debug\StudentsForm.csproj.GenerateResource.cache
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\Laborator 5\StudentsForm\StudentsForm\obj\Debug\StudentsForm.csproj.CoreCompileInputs.cache
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\Laborator 5\StudentsForm\StudentsForm\obj\Debug\StudentsForm.exe
+D:\My Drive\Portofolii\Anul_3\Sem II\Programarea vizuala\Practica\Laborator 5\StudentsForm\StudentsForm\obj\Debug\StudentsForm.pdb
