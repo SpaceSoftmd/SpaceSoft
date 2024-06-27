@@ -1,0 +1,17 @@
+Hirtie Se_cumpara_hirtie 200
+Caiete Se_cumpara_caiete 100
+Pixuri Se_cumpara_pixuri 50
+Creioane Se_cumpara_creioane 60
+Rigle Se_cumpara_rigle 80
+Penar Se_cumpara_penare 400
+Radiere Se_cumpara_radiere 75
+Markere Se_cumpara_markere 210
+Manuale Se_cumpara_manuale 500
+Culegeri Se_cumpara_culegeri 600
+Compasuri Se_cumpara_compasuri 300
+Pensule Se_cumpara_pensule 200
+Guase Se_cumpara_guase 300
+Acuarele Se_cumpara_acuarele 400
+Capsatooare Se_cumpara_capsatoare 300
+Foarfece Se_cumpara_foarfece 300
+Clei Se_cumpara_clei 150
